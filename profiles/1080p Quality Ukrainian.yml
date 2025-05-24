@@ -1,4 +1,4 @@
-name: 1080p Quality
+name: 1080p Quality Ukrainian
 description: "1080p Quality utilizes the [**Golden Popcorn Performance Index**](https://dictionarry.dev/wiki/GPPi)\
   \ to target **transparent** x264 1080p encodes. \n- 5 Quality tiers prioritise encodes\
   \ with high 1080p GPPi scores, with fallback to 1080p WEB-DLs and streaming optimised\
@@ -88,6 +88,12 @@ custom_formats:
   score: 7
 - name: Repack1
   score: 6
+- name: Not English
+  score: 0
+- name: Not Only English
+  score: 0
+- name: Not Only English (Missing)
+  score: 0
 - name: 2160p
   score: -9999
 - name: 3D
